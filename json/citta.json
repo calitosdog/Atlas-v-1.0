@@ -1,0 +1,13 @@
+{"type":"FeatureCollection","features":[
+{"type":"Feature","id":"1","properties":{"name":"Pisa"},"geometry":{"type":"Point","x":"10.354252479734","y":"43.6723354974288"}},
+{"type":"Feature","id":"2","properties":{"name":"Livorno"},"geometry":{"type":"Point","x":"10.3492857397757","y":"43.521904381844"}},
+{"type":"Feature","id":"3","properties":{"name":"Firenze"},"geometry":{"type":"Point","x":"11.2449618910098","y":"43.7800274203755"}},
+{"type":"Feature","id":"4","properties":{"name":"Prato"},"geometry":{"type":"Point","x":"11.0847957803042","y":"43.8782144886243"}},
+{"type":"Feature","id":"5","properties":{"name":"Grosseto"},"geometry":{"type":"Point","x":"11.0902971822751","y":"42.767277689862"}},
+{"type":"Feature","id":"6","properties":{"name":"Arezzo"},"geometry":{"type":"Point","x":"11.904327632227","y":"43.4451548944094"}},
+{"type":"Feature","id":"7","properties":{"name":"Pistoia"},"geometry":{"type":"Point","x":"10.9157419383335","y":"43.9768606070595"}},
+{"type":"Feature","id":"8","properties":{"name":"Siena"},"geometry":{"type":"Point","x":"11.333807315929","y":"43.3105716565645"}},
+{"type":"Feature","id":"9","properties":{"name":"Lucca"},"geometry":{"type":"Point","x":"10.4735980948684","y":"43.8647179238452"}},
+{"type":"Feature","id":"10","properties":{"name":"Massa-Carrara"},"geometry":{"type":"Point","x":"10.161447268949","y":"44.0550012871497"}}
+]}
+

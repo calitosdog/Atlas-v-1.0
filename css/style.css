@@ -1,0 +1,101 @@
+		.chart rect {
+		  stroke: white;
+		  fill: steelblue;
+		}
+		
+		#container-bottom { 
+			  overflow: hidden;
+			  width: auto;
+			  margin: 0px auto;
+			  padding: 0px;
+			}
+		
+		.chart1 div 
+			{
+				font: 10px sans-serif;
+				background-color: steelblue;
+				text-align: right;
+				padding: 3px;
+				margin: 1px;
+				color: white;
+				
+			}
+		#chart
+			{
+				z-index:10;
+				padding: 0em;
+				left:0.18em;
+				top:-0.9em;
+				background-color:#fafafa;
+				color: #900;
+				float: left;
+			}
+		#tab
+			{
+			    position:relative;
+				z-index:20;
+				top:1.3em;
+				background-color:#fafafa;
+				color: #900;
+				display:inline-block;	
+			}
+		.bar 
+			{
+			    display: inline-block;
+				width: 20px;
+				height: 75px;
+				background-color: teal;
+				margin-right: 2px
+			}
+		round 
+			{
+				background-color: teal;
+				margin-right: 2px;
+			}
+		.axis path,
+		.axis line 
+				{
+					fill: none;
+					stroke: black;
+					shape-rendering: crispEdges;
+				}
+		.axis text 
+				{
+					font-family: sans-serif;
+					font-size: 11px;
+				}
+		.background 
+				{
+				  fill: none;
+				  pointer-events: all;
+				}
+		rect.bordered 
+				{
+					stroke: #E6E6E6;
+					stroke-width:2px;   
+				}
+		text.mono 
+				{
+					font-size: 9pt;
+					font-family: Consolas, courier;
+					fill: #aaa;
+				}
+		text.axis-workweek 
+				{
+					fill: #000;
+				}
+		text.axis-worktime 
+				{
+					fill: #000;
+				}
+		rect:hover 
+				{
+					fill:red;
+				}
+		rect 
+				{
+				 -moz-transition: all 0.3s;
+				 -0-transition: all 0.3s;
+				 -webkit-transition: all 0.3s;
+				 transition: all 0.3s;
+				}	
